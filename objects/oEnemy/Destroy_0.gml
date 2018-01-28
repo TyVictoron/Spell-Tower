@@ -1,0 +1,1 @@
+global.resorces += 5
