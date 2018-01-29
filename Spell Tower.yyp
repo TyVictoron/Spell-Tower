@@ -115,6 +115,25 @@
             }
         },
         {
+            "Key": "261a1e3b-ef32-4119-9e87-80d39eda8488",
+            "Value": {
+                "id": "13df78cd-82d1-4ba7-ab6f-bf5f5e08224a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sWaterEssence\/sWaterEssence.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "29263c74-2c8f-4e3d-8e91-235f313e7574",
             "Value": {
                 "id": "23305f5b-f0e4-4c8b-b630-2463f94f5ca0",
@@ -305,6 +324,25 @@
             }
         },
         {
+            "Key": "5c838610-6724-4bad-a832-f5eb4895a7b1",
+            "Value": {
+                "id": "5acb211e-a322-4bc0-9e1a-e809f98a4efc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sFireEssence\/sFireEssence.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d222b9c-6072-4666-8078-7c0d3cc90659",
             "Value": {
                 "id": "4a8076e7-14b7-483a-8d88-3bc85bc02a98",
@@ -359,6 +397,25 @@
                 ],
                 "resourcePath": "views\/680ccfcd-3715-4392-ab18-ecaafe08a915.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "684eec87-0516-4dc2-bd76-54bb4e7c0447",
+            "Value": {
+                "id": "fe24e5dd-d2ac-47ac-a489-903a6e980eb5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sAirEssence\/sAirEssence.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -910,6 +967,25 @@
                 ],
                 "resourcePath": "views\/d6b1bfd7-985d-4ce5-8aa8-ff766918a415.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "d98a199e-0ab7-4418-9a08-ddbf07bda68b",
+            "Value": {
+                "id": "0342b565-d1f2-4ccd-a08d-d66646380cf3",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sEarthEssence\/sEarthEssence.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
