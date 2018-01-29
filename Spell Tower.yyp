@@ -134,6 +134,25 @@
             }
         },
         {
+            "Key": "3355a987-29ed-49d7-bee9-67c416b18c5a",
+            "Value": {
+                "id": "b90a11b7-051d-4828-bb66-228c2169fbe8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oEssenceSpawn\/oEssenceSpawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3715f8e6-0758-4dbb-b83a-fc211b14170d",
             "Value": {
                 "id": "a41cb4cc-64ad-4b0a-8054-1d601c70120a",
@@ -153,9 +172,9 @@
             }
         },
         {
-            "Key": "38487c04-6cae-4e5b-ada4-4f6a3216ad4c",
+            "Key": "3a30591d-2335-4f09-ad7d-df428733eca0",
             "Value": {
-                "id": "aace1776-de5e-42a9-8500-a8752caf3e68",
+                "id": "b83b801b-779f-4753-a0bd-b654e5306dca",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -167,8 +186,8 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprite10\/sprite10.yy",
-                "resourceType": "GMSprite"
+                "resourcePath": "views\/3a30591d-2335-4f09-ad7d-df428733eca0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -362,25 +381,6 @@
             }
         },
         {
-            "Key": "70f65377-b34b-412f-a187-a5c34a5e2010",
-            "Value": {
-                "id": "3a60469c-0688-4553-9385-4d4f43729df6",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/sprite9\/sprite9.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7a67aee3-2179-48e7-b21c-ca8a36b17c87",
             "Value": {
                 "id": "85f969cd-fb3b-448d-ab1e-4ba29fa778bf",
@@ -472,6 +472,25 @@
                     "default"
                 ],
                 "resourcePath": "views\/9528cf37-13f1-4851-8e0a-975e3b8cca0c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "96f1475e-cc11-4c49-a5a6-4eacbdd3a74c",
+            "Value": {
+                "id": "de907f0a-2f5d-4ddb-a7a4-62216e2ade4e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/96f1475e-cc11-4c49-a5a6-4eacbdd3a74c.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -948,6 +967,25 @@
                 ],
                 "resourcePath": "objects\/oFireTowerC\/oFireTowerC.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f307731c-b283-4607-b158-1887d757dd58",
+            "Value": {
+                "id": "5787ff76-350e-46dd-bb51-395a634e3188",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "views\/f307731c-b283-4607-b158-1887d757dd58.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
