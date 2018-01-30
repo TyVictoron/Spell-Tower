@@ -1,2 +1,2 @@
-global.earthEssence += 10; // amount to add
+global.earthEssence += 25; // amount to add
 instance_destroy();

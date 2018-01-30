@@ -1,5 +1,5 @@
 // Dont touch please :)
-num = random_range(0,3);
+num = irandom_range(0,3);
 path = path0;
 
 if (num == 0) {

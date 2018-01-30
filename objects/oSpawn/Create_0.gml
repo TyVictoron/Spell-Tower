@@ -6,9 +6,8 @@ alarm[0] = 1;
 alarm[1] = room_speed * 5;
 
 // All global Variables here
-global.resorces = 100; // starting amount
 
-////// Resources (not implemented yet)
+////// Resources
 global.fireEssence = 50;
 global.earthEssence = 50;
 global.waterEssence = 50;

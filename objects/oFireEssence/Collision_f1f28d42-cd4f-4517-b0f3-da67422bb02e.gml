@@ -1,2 +1,2 @@
-global.fireEssence += 10; // amount to add
+global.fireEssence += 25; // amount to add
 instance_destroy();
