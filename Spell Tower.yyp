@@ -77,6 +77,25 @@
             }
         },
         {
+            "Key": "0734922f-ae51-4b49-9070-2137216f6413",
+            "Value": {
+                "id": "0e6fc045-f23b-4ac3-907c-51753a7d2f9e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oAirEssence\/oAirEssence.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "090afacf-09b0-4e61-b0f0-29fb31bfefe8",
             "Value": {
                 "id": "7850543c-dc47-4486-b868-a757c19ce662",
@@ -381,6 +400,25 @@
             }
         },
         {
+            "Key": "64dedc22-6409-4172-829d-e3f7aaf43b77",
+            "Value": {
+                "id": "6853316e-35e5-4f2b-9f7d-81d396f6c2ba",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oWaterEssence\/oWaterEssence.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "680ccfcd-3715-4392-ab18-ecaafe08a915",
             "Value": {
                 "id": "a6819443-6d23-4747-9d63-a4304e7f872f",
@@ -568,6 +606,25 @@
                 ],
                 "resourcePath": "views\/985d1e7e-0e50-44c8-a87a-c4d9dd0f04bd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9a5bed1d-096d-4c9b-92be-d11cb46b5e26",
+            "Value": {
+                "id": "441534d0-a848-48b8-a26b-b072ce536a99",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oFireEssence\/oFireEssence.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -875,6 +932,25 @@
             }
         },
         {
+            "Key": "c56c3ecc-839d-4f78-a950-94413848dba8",
+            "Value": {
+                "id": "45ea09f3-0bb5-4f7f-a8ed-a17d8cc695a5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oEssence\/oEssence.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c5a4abb9-f1c1-4615-bdfb-408b68f6456e",
             "Value": {
                 "id": "c7afc488-afba-49cf-8cd0-d9d68bcbdea5",
@@ -948,6 +1024,25 @@
                 ],
                 "resourcePath": "options\/windows\/options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d5d1bbff-8ff1-4a15-8ddc-b18195ecd10b",
+            "Value": {
+                "id": "68fb2ef0-2f85-487e-9758-c58d9b1b8444",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oEarthEssence\/oEarthEssence.yy",
+                "resourceType": "GMObject"
             }
         },
         {
