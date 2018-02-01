@@ -1,2 +1,2 @@
-global.playerHealth -= 2; // amount of damage given
+global.playerHealth -= 1; // amount of damage given
 instance_destroy();	

@@ -14,9 +14,9 @@ global.waterEssence = 50;
 global.airEssence = 50;
 //////
 
-global.playerHealth = 100; // player health
-global.towerHealth = 100; // tower / base health
-global.hp = 100; // enemy health
+global.playerHealth = 12; // player health
+global.towerHealth = 50; // tower / base health
+global.hp = 3; // enemy health
 global.spd = 1; // enemy speed
 global.level = 1; // wave count
 global.essenceSpawns = [] //empty array for essence spawn locations 
@@ -26,3 +26,5 @@ global.essence = [oFireEssence,oWaterEssence,oEarthEssence,oAirEssence] // essen
 for (var i = 0; i < instance_number(oEssenceSpawn); i += 1){
 	global.essenceSpawns[i] = instance_find(oEssenceSpawn,i);
 }
+
+randomize() // makes the random actualy random
