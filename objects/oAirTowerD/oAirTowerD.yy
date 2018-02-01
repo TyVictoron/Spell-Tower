@@ -1,48 +1,48 @@
 {
-    "id": "dc867c61-3861-472c-b457-14e4b0339e39",
+    "id": "41d4ea40-4ae5-4602-b608-cb55ba0e8c08",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oFireTowerD",
+    "name": "oAirTowerD",
     "eventList": [
         {
-            "id": "d9253468-4720-48fd-9ae5-787b238bf2ca",
+            "id": "7d13cc32-92b5-4753-a4e6-ae9dd5bf4e2c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "dc867c61-3861-472c-b457-14e4b0339e39"
+            "m_owner": "41d4ea40-4ae5-4602-b608-cb55ba0e8c08"
         },
         {
-            "id": "c392ee3e-1d80-4875-abca-b1e5799450db",
+            "id": "3594bf6a-9a41-4856-a9a9-3269cf37bbaa",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "dc867c61-3861-472c-b457-14e4b0339e39"
+            "m_owner": "41d4ea40-4ae5-4602-b608-cb55ba0e8c08"
         },
         {
-            "id": "7a59b54e-b28b-43d4-a8dd-eeacdcb5ac5f",
+            "id": "b78f9943-b106-4a09-ad3a-aa485d0fcb9f",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 8,
-            "m_owner": "dc867c61-3861-472c-b457-14e4b0339e39"
+            "m_owner": "41d4ea40-4ae5-4602-b608-cb55ba0e8c08"
         },
         {
-            "id": "c973d2b6-8b52-415d-8404-905d777ed975",
+            "id": "e83b7243-b3c6-4c04-b558-c6f6c6099209",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 13,
             "eventtype": 9,
-            "m_owner": "dc867c61-3861-472c-b457-14e4b0339e39"
+            "m_owner": "41d4ea40-4ae5-4602-b608-cb55ba0e8c08"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -63,6 +63,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "9305f3db-3150-401c-8f21-34f565b52409",
+    "spriteId": "7fd5a0c2-97d0-4df4-a217-7509881a8091",
     "visible": true
 }
