@@ -552,6 +552,25 @@
             }
         },
         {
+            "Key": "7b86a34a-69bc-4903-83a9-fb40c8b81ff9",
+            "Value": {
+                "id": "145a2efc-8265-481b-8e20-72d9a7877c17",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oEarthProjectile\/oEarthProjectile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7fd5a0c2-97d0-4df4-a217-7509881a8091",
             "Value": {
                 "id": "d3021e00-6e9f-4289-8a40-c13089c4bddf",
@@ -1327,6 +1346,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/sPlayerBaseDoor\/sPlayerBaseDoor.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eacbad11-fafc-4f03-8a64-f1dd675961ec",
+            "Value": {
+                "id": "b4239b7a-89d2-406a-a2f3-fecb8909057f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sEarthProjectile\/sEarthProjectile.yy",
                 "resourceType": "GMSprite"
             }
         },
