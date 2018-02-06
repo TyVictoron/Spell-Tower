@@ -1,3 +1,2 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// go to next room in order
 room_goto_next()

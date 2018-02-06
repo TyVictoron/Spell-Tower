@@ -153,6 +153,25 @@
             }
         },
         {
+            "Key": "214d8adf-c7c7-4e59-b463-4486ffcfc7f1",
+            "Value": {
+                "id": "6ef8424a-1034-401b-bb90-d211813e4a4a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oWaterProjectile\/oWaterProjectile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2165fdab-c599-4cfb-8cb7-6863fd6586ce",
             "Value": {
                 "id": "1647ac77-f021-45c8-807d-663a1573722a",
