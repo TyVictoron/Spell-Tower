@@ -1,10 +1,19 @@
 {
-    "id": "7b86a34a-69bc-4903-83a9-fb40c8b81ff9",
+    "id": "459947b4-0b07-425d-837e-d9d1e881105e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oEarthProjectile",
+    "name": "oButtonCheck",
     "eventList": [
-        
+        {
+            "id": "6122a1c7-8f4d-4b30-b6ad-61ca70c916c2",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 9,
+            "m_owner": "459947b4-0b07-425d-837e-d9d1e881105e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "eacbad11-fafc-4f03-8a64-f1dd675961ec",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }
