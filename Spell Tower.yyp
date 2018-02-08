@@ -1027,6 +1027,25 @@
             }
         },
         {
+            "Key": "adb83886-78d5-4983-a78b-7c5cee20df26",
+            "Value": {
+                "id": "9ca09df1-1bcd-409e-ae99-50171eb3799f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/Kitchen\/Kitchen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "ae43c7b2-b7ff-4052-b245-2ab10b20a46c",
             "Value": {
                 "id": "e8c42b5f-e447-4e0a-9cb2-860333edf070",
