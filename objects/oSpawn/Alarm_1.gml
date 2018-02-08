@@ -12,6 +12,7 @@ if (global.level == 10 or global.playerHealth <= 0 or global.towerHealth <= 0) {
 	exit; // stops waves
 }
 
+
 // random spawns for essence
 Rnd_Number = irandom_range(0, array_length_1d(global.essenceSpawns)-1);
 spawn = global.essenceSpawns[Rnd_Number]
