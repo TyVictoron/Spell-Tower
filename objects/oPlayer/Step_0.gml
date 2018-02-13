@@ -6,7 +6,7 @@ key_jump = keyboard_check_pressed(vk_space);
 // calculate movement ------------------------------------------------
 var move = key_right - key_left;
 
-hsp = move * walksp;
+global.hsp = move * walksp;
 
 vsp = vsp + grv;
 
@@ -16,28 +16,28 @@ if (place_meeting(x,y+1,oWall) && (key_jump)) {
 }
 
 // horizontal collision ------------------------------------------------
-if (place_meeting(x+hsp,y,oWall)) {
-	while (!place_meeting(x+sign(hsp),y,oWall)) {
-		x = x + sign(hsp);
+if (place_meeting(x+global.hsp,y,oWall)) {
+	while (!place_meeting(x+sign(global.hsp),y,oWall)) {
+		x = x + sign(global.hsp);
 	}
-	hsp = 0;	
+	global.hsp = 0;	
 }
 
-if (place_meeting(x+hsp,y,oPlayerBaseDoor)) {
-	while (!place_meeting(x+sign(hsp),y,oPlayerBaseDoor)) {
-		x = x + sign(hsp);
+if (place_meeting(x+global.hsp,y,oPlayerBaseDoor)) {
+	while (!place_meeting(x+sign(global.hsp),y,oPlayerBaseDoor)) {
+		x = x + sign(global.hsp);
 	}
-	hsp = 0;	
+	global.hsp = 0;	
 }
 
-if (place_meeting(x+hsp,y,oEnemySpawnDoor)) {
-	while (!place_meeting(x+sign(hsp),y,oEnemySpawnDoor)) {
-		x = x + sign(hsp);
+if (place_meeting(x+global.hsp,y,oEnemySpawnDoor)) {
+	while (!place_meeting(x+sign(global.hsp),y,oEnemySpawnDoor)) {
+		x = x + sign(global.hsp);
 	}
-	hsp = 0;	
+	global.hsp = 0;	
 }
 
-x = x + hsp;
+x = x + global.hsp;
 
 // virtical collision ------------------------------------------------
 if (place_meeting(x,y+vsp,oWall)) {
@@ -56,13 +56,15 @@ if (!place_meeting(x,y+1,oWall)) {
 }
 else {
 	image_speed = 1
-	if (hsp == 0) {
+	if (global.hsp == 0) {
 		sprite_index = sPlayerIdle // sprite for player Idle
 	}
 	else {
 		sprite_index = sPlayerWalk // sprite for player Walk
 	}
 }
+
+if (global.hsp != 0) image_xscale = sign(global.hsp); // flips sprite
 
 // game over via tower death -------------------------------------------
 if (global.towerHealth <= 0) {	
