@@ -46,7 +46,6 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
@@ -61,8 +60,7 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
     "solid": false,
-    "spriteId": "e174fb4f-e5fb-49ee-9857-21d8189b81aa",
+    "spriteId": "649625fd-3ed6-421c-ba3d-f83c6d3f19e1",
     "visible": true
 }

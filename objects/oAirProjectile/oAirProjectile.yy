@@ -1,8 +1,8 @@
 {
-    "id": "4233d003-c0c0-477b-9ee1-9bb5c8043015",
+    "id": "f4044e52-a390-4d24-9f18-830af72d9646",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oFireProjectile",
+    "name": "oAirProjectile",
     "eventList": [
         
     ],
@@ -22,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "8ba13768-705c-474c-8397-cbb0e697b569",
+    "spriteId": "50b7bf33-4642-484a-a0b7-a0f063822ddc",
     "visible": true
 }
