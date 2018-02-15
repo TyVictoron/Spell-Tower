@@ -21,10 +21,16 @@ global.spd = 1; // enemy speed
 global.level = 1; // wave count
 global.essenceSpawns = [] //empty array for essence spawn locations 
 global.essence = [oFireEssence,oWaterEssence,oEarthEssence,oAirEssence] // essences
+global.enemySpawns = []
 
 // finds the spawnable locations 
 for (var i = 0; i < instance_number(oEssenceSpawn); i += 1){
 	global.essenceSpawns[i] = instance_find(oEssenceSpawn,i);
+}
+
+// finds the spawnable locations 
+for (var i = 0; i < instance_number(oEnemySpawn); i += 1){
+	global.enemySpawns[i] = instance_find(oEnemySpawn,i);
 }
 
 randomize() // makes the random actualy random
