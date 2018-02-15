@@ -1,4 +1,6 @@
 if (global.waterEssence >= cost) {
-	instance_create_depth(oPlayer.x + 100,oPlayer.y + 40,-9,oWaterTowerD);
-	global.waterEssence -= cost;
+	if (instance_exists(oTowerDParent)){
+		instance_destroy(oTowerDParent);
+	}
+	instance_create_depth(oPlayer.x + 50,oPlayer.y + 40,-9,oWaterTowerD);
 }
