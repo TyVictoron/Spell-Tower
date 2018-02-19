@@ -1,4 +1,4 @@
-if (keyboard_check("E")) {
+//if (instance_position(oTowerParent) == inst) {
 	if (oTowerParent.id == "oFireTower" and global.fireEssence >= 2) {
 		// upgrade damage
 	}
@@ -12,4 +12,4 @@ if (keyboard_check("E")) {
 		// upgrade 
 	}
 	
-}
+//}
