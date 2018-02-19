@@ -2015,6 +2015,25 @@
             }
         },
         {
+            "Key": "eb643a02-2a27-4072-a9f2-4eb8e5ff93cf",
+            "Value": {
+                "id": "a6d5b207-58af-474c-ab58-fe6093c33f0a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "fonts\/IngameFont\/IngameFont.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "ec9a8776-b8b6-4d46-aa1c-f48befaeaea8",
             "Value": {
                 "id": "5ee84a88-6742-48e5-8edf-cb7bba9d3a94",
