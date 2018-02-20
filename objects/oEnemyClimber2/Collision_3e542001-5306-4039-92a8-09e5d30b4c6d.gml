@@ -1,0 +1,1 @@
+y = y - 250; // the height the enemys will go to
