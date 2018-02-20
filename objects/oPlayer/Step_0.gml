@@ -74,3 +74,46 @@ if (global.towerHealth <= 0) {
 	//audio_play_sound(Defeat_sound,1,0)
 	exit;
 }
+
+// upgrading ------------------------------------------------------------
+var towerid;
+
+if (keyboard_check_pressed("E")) {
+	if (towerid = collision_point(oPlayer.x,oPlayer.y,oTowerParent,true,true)) {
+		if (asset_get_index(object_get_name(towerid)) == oFireTower) {
+			if (towerid.lvl < 2) {
+				if (global.fireEssence > 2) {
+					towerid.lvl += 1;
+					global.fireEssence -= 2
+				}
+			}
+		}
+		
+		if (asset_get_index(object_get_name(towerid)) == oWaterTower) {
+			if (towerid.lvl < 2) {
+				if (global.waterEssence > 2) {
+					towerid.lvl += 1;
+					global.waterEssence -= 2
+				}
+			}
+		}
+		
+		if (asset_get_index(object_get_name(towerid)) == oEarthTower) {
+			if (towerid.lvl < 2) {
+				if (global.earthEssence > 2) {
+					towerid.lvl += 1;
+					global.earthEssence -= 2
+				}
+			}
+		}
+		
+		if (asset_get_index(object_get_name(towerid)) == oAirTower) {
+			if (towerid.lvl < 2) {
+				if (global.airEssence > 2) {
+					towerid.lvl += 1;
+					global.airEssence -= 2
+				}
+			}
+		}
+	}
+}
