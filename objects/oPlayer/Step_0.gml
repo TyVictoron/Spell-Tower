@@ -79,8 +79,9 @@ if (global.towerHealth <= 0) {
 var towerid;
 
 if (keyboard_check_pressed("E")) {
-	if (towerid = collision_point(oPlayer.x,oPlayer.y,oTowerParent,true,true)) {
-		if (asset_get_index(object_get_name(towerid)) == oFireTower) {
+	towerid = collision_point(oPlayer.x,oPlayer.y,oTowerParent,true,true)
+	if (towerid) {
+		if (towerid.object_index == oFireTower) {
 			if (towerid.lvl < 2) {
 				if (global.fireEssence > 2) {
 					towerid.lvl += 1;
@@ -89,7 +90,7 @@ if (keyboard_check_pressed("E")) {
 			}
 		}
 		
-		if (asset_get_index(object_get_name(towerid)) == oWaterTower) {
+		if (towerid.object_index == oWaterTower) {
 			if (towerid.lvl < 2) {
 				if (global.waterEssence > 2) {
 					towerid.lvl += 1;
@@ -98,7 +99,7 @@ if (keyboard_check_pressed("E")) {
 			}
 		}
 		
-		if (asset_get_index(object_get_name(towerid)) == oEarthTower) {
+		if (towerid.object_index == oEarthTower) {
 			if (towerid.lvl < 2) {
 				if (global.earthEssence > 2) {
 					towerid.lvl += 1;
@@ -107,7 +108,7 @@ if (keyboard_check_pressed("E")) {
 			}
 		}
 		
-		if (asset_get_index(object_get_name(towerid)) == oAirTower) {
+		if (towerid.object_index == oAirTower) {
 			if (towerid.lvl < 2) {
 				if (global.airEssence > 2) {
 					towerid.lvl += 1;
