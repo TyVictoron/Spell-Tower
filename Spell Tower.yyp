@@ -1592,7 +1592,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "rooms\/Level0\/Level0.yy",
+                "resourcePath": "rooms\/TestLevel\/TestLevel.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -2696,6 +2696,25 @@
                 ],
                 "resourcePath": "sprites\/Level.Library\/Level.Library.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fce0171c-ee7b-45f6-8494-05e5075d7425",
+            "Value": {
+                "id": "da412482-30c6-4388-8120-ffdc93291f23",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/Level01\/Level01.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
