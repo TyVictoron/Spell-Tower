@@ -78,12 +78,12 @@ if (global.towerHealth <= 0) {
 // upgrading ------------------------------------------------------------
 var towerid;
 
-if (keyboard_check_pressed("E")) {
+if (keyboard_check(ord("E"))) {
 	towerid = collision_point(oPlayer.x,oPlayer.y,oTowerParent,true,true)
 	if (towerid) {
 		if (towerid.object_index == oFireTower) {
 			if (towerid.lvl < 2) {
-				if (global.fireEssence > 2) {
+				if (global.fireEssence >= 2) {
 					towerid.lvl += 1;
 					global.fireEssence -= 2
 				}
@@ -92,7 +92,7 @@ if (keyboard_check_pressed("E")) {
 		
 		if (towerid.object_index == oWaterTower) {
 			if (towerid.lvl < 2) {
-				if (global.waterEssence > 2) {
+				if (global.waterEssence >= 2) {
 					towerid.lvl += 1;
 					global.waterEssence -= 2
 				}
@@ -101,7 +101,7 @@ if (keyboard_check_pressed("E")) {
 		
 		if (towerid.object_index == oEarthTower) {
 			if (towerid.lvl < 2) {
-				if (global.earthEssence > 2) {
+				if (global.earthEssence >= 2) {
 					towerid.lvl += 1;
 					global.earthEssence -= 2
 				}
@@ -110,7 +110,7 @@ if (keyboard_check_pressed("E")) {
 		
 		if (towerid.object_index == oAirTower) {
 			if (towerid.lvl < 2) {
-				if (global.airEssence > 2) {
+				if (global.airEssence >= 2) {
 					towerid.lvl += 1;
 					global.airEssence -= 2
 				}

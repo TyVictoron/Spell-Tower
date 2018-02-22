@@ -6,3 +6,4 @@ if (instance_exists(objectToShoot)) {
 } else {
 	shooting = false;	
 }
+
