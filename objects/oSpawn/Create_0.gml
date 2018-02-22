@@ -8,10 +8,10 @@ alarm[1] = room_speed * 5;
 // All global Variables here
 
 ////// Resources
-global.fireEssence = 5;
-global.earthEssence = 5;
-global.waterEssence = 5;
-global.airEssence = 5;
+global.fireEssence = 2;
+global.earthEssence = 2;
+global.waterEssence = 2;
+global.airEssence = 2;
 //////
 
 global.playerHealth = 12; // player health
