@@ -4,6 +4,8 @@ spawnCount = 0;
 spawnRate = 1 * room_speed;
 alarm[0] = 1;
 alarm[1] = room_speed * 5;
+won = false;
+lost = false;
 
 // All global Variables here
 

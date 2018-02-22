@@ -5,16 +5,18 @@ draw_text(10,50,"Tower Health: " + string(global.towerHealth));
 draw_text(10,70,"Player Health: " + string(global.playerHealth));
 draw_set_color(c_white); // ignore
 
-if (global.level == 10 and instance_number(oEnemy) <= 0) {
+if (global.level == 10 and instance_number(oEnemy) <= 0 and won == false) {
 	draw_set_color(c_green); // color of text
-	draw_text(display_get_width()/2,display_get_height()/2,"You Win!");
+	draw_text(window_get_width()/2,window_get_height()/2,"You Win!");
 	draw_set_color(c_white); // ignore
-	//audio_play_sound(Victory_sound,1,0)
+	//audio_play_sound(Victory_sound,1,0); does not play correctly
+	//won = true;
 }
 
-if (global.playerHealth <= 0 or global.towerHealth <= 0) {
+if (global.playerHealth <= 0 or global.towerHealth <= 0 and lost == false) {
 	draw_set_color(c_red); // color of text
-	draw_text(display_get_width()/2,display_get_height()/2,"You lose.");
+	draw_text(window_get_width()/2,window_get_height()/2,"You lose.");
 	draw_set_color(c_white); // ignore
-	//audio_play_sound(Defeat_sound,1,0)
+	//audio_play_sound(Defeat_sound,1,0); does not play correctly
+	//lost = true;
 }
