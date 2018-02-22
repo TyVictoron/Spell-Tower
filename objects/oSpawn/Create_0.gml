@@ -14,6 +14,7 @@ global.fireEssence = 2;
 global.earthEssence = 2;
 global.waterEssence = 2;
 global.airEssence = 2;
+global.ecoEssence = 2;
 //////
 
 global.playerHealth = 12; // player health
@@ -22,7 +23,7 @@ global.hp = 3; // enemy health
 global.spd = 1; // enemy speed
 global.level = 1; // wave number
 global.essenceSpawns = [] //empty array for essence spawn locations 
-global.essence = [oFireEssence,oWaterEssence,oEarthEssence,oAirEssence] // essences
+global.essence = [oFireEssence,oWaterEssence,oEarthEssence,oAirEssence,oEcoEssence] // essences
 global.enemySpawns = [] // finds spawner loactions
 
 // finds the spawnable locations for essesnces

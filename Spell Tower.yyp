@@ -1749,6 +1749,25 @@
             }
         },
         {
+            "Key": "aae5edeb-de07-4b7c-a6e7-450e3a81a462",
+            "Value": {
+                "id": "a3a85c0a-ed53-4807-8a68-0fa7a9750858",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oEcoTowerD\/oEcoTowerD.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "aaff2144-0040-4672-977a-ca46b53624f1",
             "Value": {
                 "id": "c7b11d7c-cf59-425b-a2cb-371b0eeb5230",
@@ -1821,6 +1840,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/sBackground\/sBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aeed9ca0-279d-401f-aa16-50a458979c28",
+            "Value": {
+                "id": "fdb7be08-9f55-41f9-bc42-b010a0c454c7",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sEcoTower\/sEcoTower.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1916,6 +1954,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/oCannotPlace\/oCannotPlace.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c0b7acc2-6f17-48ba-8876-56a8b96a137f",
+            "Value": {
+                "id": "f92aac1d-ec9e-43c0-aa40-1a69609e1a2a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oEcoTower\/oEcoTower.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -2278,6 +2335,25 @@
                 ],
                 "resourcePath": "sprites\/sEarthEssence\/sEarthEssence.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "db86defc-99ed-4fa1-ae88-9ccfae5f27fe",
+            "Value": {
+                "id": "fc414808-1527-43f5-9a21-d0fc4f3eff9c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oEcoEssence\/oEcoEssence.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -2657,6 +2733,25 @@
                     "default"
                 ],
                 "resourcePath": "objects\/oEarthTower\/oEarthTower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f92d876f-28b3-451a-97bd-d6f16631f4cd",
+            "Value": {
+                "id": "0dc52dd1-79e3-405a-95cd-12e4ac36674c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oEcoTowerC\/oEcoTowerC.yy",
                 "resourceType": "GMObject"
             }
         },
