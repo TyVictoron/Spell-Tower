@@ -11,6 +11,7 @@ if (global.level == 10 and instance_number(oEnemy) <= 0 and won == false) {
 	draw_set_color(c_white); // ignore
 	//audio_play_sound(Victory_sound,1,0); does not play correctly
 	//won = true;
+	room_goto_next();
 }
 
 if (global.playerHealth <= 0 or global.towerHealth <= 0 and lost == false) {
