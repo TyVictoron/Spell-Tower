@@ -1183,6 +1183,14 @@
             }
         },
         {
+            "Key": "fce9e6b9-d37f-40c1-abc9-67d644ee29ff",
+            "Value": {
+                "id": "55314ecf-e538-4ae5-b2ee-f81418b93701",
+                "resourcePath": "sprites\\Tower.Arcane\\Tower.Arcane.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fd82725d-d57e-459c-bd6d-3df3c39b5b7b",
             "Value": {
                 "id": "3878759e-cadf-4e6a-b530-475a7de5da84",
