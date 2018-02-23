@@ -134,25 +134,6 @@
             }
         },
         {
-            "Key": "0a59a06a-72bb-4443-a69b-77eb0d93a3bf",
-            "Value": {
-                "id": "2608175f-2e64-4b8a-bad9-6d5788458443",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sounds\/casting twinkle sound\/casting twinkle sound.yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "0e0f2016-d764-459a-a038-ff08dc2e5c04",
             "Value": {
                 "id": "16264e2c-978d-4555-a9d8-369bd84ce9bf",
@@ -454,25 +435,6 @@
                 ],
                 "resourcePath": "objects\/oBuildingsUI\/oBuildingsUI.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "388f9db9-bed8-4478-9792-50355ff80a8a",
-            "Value": {
-                "id": "9e92d9ca-7046-4a82-a6b0-70881edf55ae",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/Essence.Arcane\/Essence.Arcane.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1271,25 +1233,6 @@
                 ],
                 "resourcePath": "sprites\/Monster.Hellhound\/Monster.Hellhound.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "8f13692f-81b7-44c4-a3de-777debfae1bd",
-            "Value": {
-                "id": "4dcb6c71-aa8e-4aac-b685-15ffa7ce28ec",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "views\/8f13692f-81b7-44c4-a3de-777debfae1bd.yy",
-                "resourceType": "GMFolder"
             }
         },
         {
@@ -2224,25 +2167,6 @@
             }
         },
         {
-            "Key": "cc24e090-7b95-4ec7-a66f-5eb0a4c49cb2",
-            "Value": {
-                "id": "4f00420a-bbaa-4d4e-8c84-366aca5572e3",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sounds\/wizard got hit sound (ouch)\/wizard got hit sound (ouch).yy",
-                "resourceType": "GMSound"
-            }
-        },
-        {
             "Key": "cc2f1323-9ba1-4a92-b4eb-6800735d4757",
             "Value": {
                 "id": "e140578f-b627-425c-9ac9-b3d906f420f7",
@@ -2886,25 +2810,6 @@
                 ],
                 "resourcePath": "rooms\/Level01\/Level01.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "fce9e6b9-d37f-40c1-abc9-67d644ee29ff",
-            "Value": {
-                "id": "55314ecf-e538-4ae5-b2ee-f81418b93701",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/Tower.Arcane\/Tower.Arcane.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
