@@ -571,6 +571,25 @@
             }
         },
         {
+            "Key": "4a773134-2ad0-4f92-911d-7875724621bf",
+            "Value": {
+                "id": "035666f6-6825-4bca-8753-1ab51e7a8a48",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Essence_Arcane\/Essence_Arcane.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4defad1a-60c3-42da-a51d-36c7cca8d5fc",
             "Value": {
                 "id": "a9cb3aa0-2166-470b-8085-af01831b00dd",
@@ -777,6 +796,25 @@
                 ],
                 "resourcePath": "views\/5d5b63f5-4d39-4314-a67b-b13c68b86d2b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5dc48c42-2023-4f56-ac7e-90aa8256505e",
+            "Value": {
+                "id": "c926d432-3a52-4d99-9523-a6f2f327041a",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/ArcaneTower\/ArcaneTower.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
