@@ -1,8 +1,8 @@
 {
-    "id": "f1bd5af1-1526-4d11-9c46-47c91a6951d7",
+    "id": "e421734b-b4d7-4a6d-87e2-21f96bae4593",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "summoning water sound",
+    "name": "summoning wood sound",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
