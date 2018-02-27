@@ -2,7 +2,7 @@
     "id": "8b732354-8e7a-48b5-acb6-bbd470d61d6c",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "Summoning arcane sound",
+    "name": "arcanesound",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,

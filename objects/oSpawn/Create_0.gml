@@ -4,6 +4,7 @@ spawnCount = 0;
 spawnRate = 1 * room_speed;
 alarm[0] = 1;
 alarm[1] = room_speed * 5;
+alarm[2] = room_speed * 10;
 won = false;
 lost = false;
 
@@ -35,5 +36,7 @@ for (var i = 0; i < instance_number(oEssenceSpawn); i += 1){
 for (var i = 0; i < instance_number(oEnemySpawn); i += 1){
 	global.enemySpawns[i] = instance_find(oEnemySpawn,i);
 }
+
+audio_play_sound(BGM_1,1,-1);
 
 randomize() // makes the random actualy random

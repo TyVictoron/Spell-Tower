@@ -1,8 +1,8 @@
 {
-    "id": "c9f72bc4-bbcc-43ac-a2f7-640d790a7113",
+    "id": "eb101069-8dba-49a8-92da-0663fdf7844a",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "summoning fire sound23",
+    "name": "wizardhit",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,

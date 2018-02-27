@@ -1,8 +1,8 @@
 {
-    "id": "eb101069-8dba-49a8-92da-0663fdf7844a",
+    "id": "57ce3ae5-dbbf-4c40-9eff-6d8940d318c2",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "wizard got hit sound (ouch)",
+    "name": "windsound",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,

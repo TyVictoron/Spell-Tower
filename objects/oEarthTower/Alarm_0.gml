@@ -6,7 +6,3 @@ if (instance_exists(objectToShoot)) {
 } else {
 	shooting = false;	
 }
-
-if (lvl == 2){
-	fire_rate = room_speed / 1.5;
-}
