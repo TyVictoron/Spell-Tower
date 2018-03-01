@@ -4,5 +4,6 @@ shooting = false;
 objectToShoot = noone;
 tHealth = 100;
 lvl = 1;
+flash = 0
 
 alarm[1] = room_speed * 15;

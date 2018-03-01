@@ -6,3 +6,4 @@ hsp = 0;
 vsp = 0;
 grav = 0;
 hp = 4;
+flash = 0;
