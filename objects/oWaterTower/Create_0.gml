@@ -1,9 +1,9 @@
-range = 500;
-fire_rate = room_speed / 0.5;
+range = 9999;
+fire_rate = room_speed / 0.2;
 shooting = false;
 objectToShoot = noone;
-tHealth = 1;
+tHealth = 3;
 lvl = 1;
 flash = 0
 
-alarm[1] = room_speed * 20;
+alarm[1] = room_speed * 10;
