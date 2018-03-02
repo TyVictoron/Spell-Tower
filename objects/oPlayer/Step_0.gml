@@ -30,14 +30,10 @@ if (place_meeting(x+global.hsp,y,oPlayerBaseDoor)) {
 	global.hsp = 0;	
 }
 
-if (place_meeting(x+global.hsp,y,oEnemySpawnDoor)) {
-	while (!place_meeting(x+sign(global.hsp),y,oEnemySpawnDoor)) {
-		x = x + sign(global.hsp);
-	}
-	global.hsp = 0;	
-}
-
 x = x + global.hsp;
+if global.hsp != 0 {
+	global.getHsp = global.hsp;
+}
 
 // virtical collision ------------------------------------------------
 if (place_meeting(x,y+vsp,oWall)) {
