@@ -1,4 +1,4 @@
-if (global.earthEssence >= cost or global.airEssence >= cost or global.fireEssence >= cost or global.waterEssence >= cost) {
+if (global.earthEssence >= cost and global.airEssence >= cost and global.fireEssence >= cost and global.waterEssence >= cost) {
 	if (instance_exists(oTowerDParent)){
 		instance_destroy(oTowerDParent);
 	}
