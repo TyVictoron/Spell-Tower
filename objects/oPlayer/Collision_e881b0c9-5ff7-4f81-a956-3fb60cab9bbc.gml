@@ -6,3 +6,4 @@ if (global.playerHealth <= 1) {
 	draw_set_color(c_white); // ignore
 	exit;
 }
+flash = 3;
