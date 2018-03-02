@@ -205,7 +205,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sounds\/Defeat_sound\/Defeat_sound.yy",
+                "resourcePath": "sounds\/GameOver\/GameOver.yy",
                 "resourceType": "GMSound"
             }
         },
