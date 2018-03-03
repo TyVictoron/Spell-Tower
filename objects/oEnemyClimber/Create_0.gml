@@ -5,5 +5,5 @@ movespeed = 1.5;
 hsp = 0;
 vsp = 0;
 grav = 0;
-hp = 4;
+hp = 40;
 flash = 0;

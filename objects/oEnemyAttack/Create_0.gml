@@ -1,1 +1,1 @@
-alarm[0] = room_speed * 1; // time until deleted
+alarm[0] = 1; // time until deleted
