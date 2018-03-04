@@ -6,6 +6,6 @@ if (col == c_white) {
 	audio_play_sound(arcanesound,1,0)
 	global.earthEssence -= cost;
 	global.airEssence -= cost;
-	global.waterEssence -= cost;
 	global.fireEssence -= cost;
+	global.waterEssence -= cost;
 }
