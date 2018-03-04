@@ -2,7 +2,7 @@ range = 500;
 fire_rate = room_speed / 3;
 shooting = false;
 objectToShoot = noone;
-tHealth = 0.1;
+tHealth = 3;
 lvl = 1;
 flash = 0
 
