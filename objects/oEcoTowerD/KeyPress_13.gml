@@ -6,4 +6,7 @@ if (col == c_white) {
 	oCannotPlace.visible = false;
 	audio_play_sound(arcanesound,1,0)
 	global.earthEssence -= cost;
+	global.airEssence -= cost;
+	global.fireEssence -= cost;
+	global.waterEssence -= cost;
 }
