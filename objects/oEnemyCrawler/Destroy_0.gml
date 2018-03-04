@@ -1,1 +1,0 @@
-//global.resorces += 5

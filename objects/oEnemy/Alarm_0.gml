@@ -1,0 +1,1 @@
+instance_create_depth(x-50,y-20,2,oEnemyAttack);

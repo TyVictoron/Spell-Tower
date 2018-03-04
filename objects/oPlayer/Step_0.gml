@@ -30,14 +30,10 @@ if (place_meeting(x+global.hsp,y,oPlayerBaseDoor)) {
 	global.hsp = 0;	
 }
 
-if (place_meeting(x+global.hsp,y,oEnemySpawnDoor)) {
-	while (!place_meeting(x+sign(global.hsp),y,oEnemySpawnDoor)) {
-		x = x + sign(global.hsp);
-	}
-	global.hsp = 0;	
-}
-
 x = x + global.hsp;
+if global.hsp != 0 {
+	global.getHsp = global.hsp;
+}
 
 // virtical collision ------------------------------------------------
 if (place_meeting(x,y+vsp,oWall)) {
@@ -71,7 +67,8 @@ if (global.towerHealth <= 0) {
 	draw_set_color(c_red); // color of text
 	draw_text(display_get_width()/2,display_get_height()/2,"You Lose.");
 	draw_set_color(c_white); // ignore
-	//audio_play_sound(Defeat_sound,1,0)
+	audio_play_sound(GameOver,1,0)
+	instance_destroy();
 	exit;
 }
 

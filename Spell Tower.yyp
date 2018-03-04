@@ -205,7 +205,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sounds\/Defeat_sound\/Defeat_sound.yy",
+                "resourcePath": "sounds\/GameOver\/GameOver.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -226,6 +226,25 @@
                 ],
                 "resourcePath": "objects\/oEarthTowerC\/oEarthTowerC.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "20a0e9e6-4b5b-4e9c-9de5-89a9ca400bf3",
+            "Value": {
+                "id": "d0fd2584-ef8c-4a35-b051-684659477126",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sEnemyAttack\/sEnemyAttack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1122,6 +1141,25 @@
             }
         },
         {
+            "Key": "89956e3f-b3c3-45ce-827b-43c3ad4f6cf1",
+            "Value": {
+                "id": "c4d03585-1c24-4f7c-b50a-04ba76c5bc11",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oEnemyAttack\/oEnemyAttack.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8b732354-8e7a-48b5-acb6-bbd470d61d6c",
             "Value": {
                 "id": "cdf42570-0f68-4c55-a7d3-1611deb00a19",
@@ -1347,25 +1385,6 @@
                 ],
                 "resourcePath": "views\/96f1475e-cc11-4c49-a5a6-4eacbdd3a74c.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "96fc6cd0-73f6-4281-906b-a68b8e11d381",
-            "Value": {
-                "id": "dac0afc6-0472-4e01-9d9f-a8daf2ae4555",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/Level.Kitchen\/Level.Kitchen.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -2829,25 +2848,6 @@
                 ],
                 "resourcePath": "sounds\/Jump landing sound\/Jump landing sound.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "fbbbb3bf-f64f-4d3a-8855-593e8dd8839b",
-            "Value": {
-                "id": "a6e36379-8887-4a50-824c-f13aeb87a232",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/Level.Library\/Level.Library.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
