@@ -63,11 +63,27 @@
             }
         },
         {
+            "Key": "09412346-3103-404f-a53a-44fd4ed277f1",
+            "Value": {
+                "id": "5a48a332-1e90-4f54-8991-3f23e6e10f6e",
+                "resourcePath": "sprites\\SpellTower.wIN\\SpellTower.wIN.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "09714936-7589-4461-97ba-ae6376ba9ca1",
             "Value": {
                 "id": "50375a32-3c48-4eda-a339-88d829a9a61a",
                 "resourcePath": "objects\/oEnemyClimber2\/oEnemyClimber2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0b482219-cafb-44b7-a38e-b66e91797678",
+            "Value": {
+                "id": "20d94bc1-c306-4633-84c9-3179f1a15b4c",
+                "resourcePath": "sprites\/Wind_Tunnel_1\/Wind_Tunnel_1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -87,10 +103,12 @@
             }
         },
         {
+
             "Key": "1affc252-bc86-4d6b-bfaa-ef52309b7145",
             "Value": {
                 "id": "0deb549e-2573-47d2-8db8-8adfc8728432",
                 "resourcePath": "sprites\\Level_Hallway\\Level_Hallway.yy",
+
                 "resourceType": "GMSprite"
             }
         },
@@ -447,14 +465,17 @@
             }
         },
         {
+
             "Key": "721e397c-b3d9-4218-98f9-cbe4f08acb16",
             "Value": {
                 "id": "6a02eb6b-04bd-4793-8aa2-1042e7818abe",
                 "resourcePath": "sprites\\sPlatform\\sPlatform.yy",
+
                 "resourceType": "GMSprite"
             }
         },
         {
+
             "Key": "7304ecbc-7234-4d6b-af80-31bac7dd487c",
             "Value": {
                 "id": "9a4cfdb0-496f-407b-b3b7-761bd7d58155",
@@ -463,6 +484,7 @@
             }
         },
         {
+
             "Key": "7a67aee3-2179-48e7-b21c-ca8a36b17c87",
             "Value": {
                 "id": "85f969cd-fb3b-448d-ab1e-4ba29fa778bf",
@@ -663,6 +685,14 @@
             }
         },
         {
+            "Key": "985e427c-0a37-4c4c-bf00-7d794c89aae6",
+            "Value": {
+                "id": "701c8cd2-0d8f-45ff-baa9-f4c411f4e6e5",
+                "resourcePath": "sprites\\SpellTower.LoseScreen\\SpellTower.LoseScreen.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "99dec67f-84f5-4708-a5fa-e5986b661400",
             "Value": {
                 "id": "84a1e256-475e-4287-87c9-2a35a90c8c65",
@@ -831,6 +861,7 @@
             }
         },
         {
+
             "Key": "aeed9ca0-279d-401f-aa16-50a458979c28",
             "Value": {
                 "id": "fdb7be08-9f55-41f9-bc42-b010a0c454c7",
@@ -839,6 +870,7 @@
             }
         },
         {
+
             "Key": "b1a8328a-2203-49cc-b88c-422f7f23fef7",
             "Value": {
                 "id": "e1ec1e20-a803-4b85-b8d7-5196e949a4e3",
@@ -852,6 +884,14 @@
                 "id": "32b08e0b-107f-4af2-9af6-f2a90bcc8ad6",
                 "resourcePath": "views\/b2801db8-41ce-42f1-bc35-a62566224281.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b57710b0-b736-429f-afc8-08ace445c472",
+            "Value": {
+                "id": "915eee26-3fba-4684-b9ac-79ace025efeb",
+                "resourcePath": "sprites\/ShadowBridge\/ShadowBridge.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -900,6 +940,14 @@
                 "id": "aa483643-dbbd-4096-a0c4-44cef4126940",
                 "resourcePath": "objects\/oWaterTower\/oWaterTower.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c30667f0-7f56-4b5e-9d29-c049c0fca921",
+            "Value": {
+                "id": "b92a2a67-10c5-40d8-9eb1-c8766d6353cb",
+                "resourcePath": "sprites\/SpellTower_StartScreen\/SpellTower_StartScreen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1015,10 +1063,12 @@
             }
         },
         {
-            "Key": "cf8abfc6-10d7-47b0-a848-618c848508e7",
+            "Key": "d44b9f7d-178b-448d-a54e-45d7fa2cf286",
             "Value": {
+
                 "id": "59bd0ce8-6687-42ac-9fcd-5ed566238694",
                 "resourcePath": "sprites\/ShadowWall\/ShadowWall.yy",
+
                 "resourceType": "GMSprite"
             }
         },
@@ -1143,6 +1193,7 @@
             }
         },
         {
+
             "Key": "ec9a8776-b8b6-4d46-aa1c-f48befaeaea8",
             "Value": {
                 "id": "5ee84a88-6742-48e5-8edf-cb7bba9d3a94",
@@ -1151,6 +1202,7 @@
             }
         },
         {
+
             "Key": "ee5721e2-0c31-4fe9-be44-4918b63426ea",
             "Value": {
                 "id": "90b64de3-c1a4-4d27-baea-92fc181ab28a",
