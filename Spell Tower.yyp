@@ -103,10 +103,12 @@
             }
         },
         {
-            "Key": "156f1e17-5f6a-4d9d-831c-ded21ac283e8",
+
+            "Key": "1affc252-bc86-4d6b-bfaa-ef52309b7145",
             "Value": {
-                "id": "1650d14c-a9ed-4627-a740-69469ec22172",
-                "resourcePath": "sprites\\SpellTower.Instructions.Page2\\SpellTower.Instructions.Page2.yy",
+                "id": "0deb549e-2573-47d2-8db8-8adfc8728432",
+                "resourcePath": "sprites\\Level_Hallway\\Level_Hallway.yy",
+
                 "resourceType": "GMSprite"
             }
         },
@@ -303,6 +305,14 @@
             }
         },
         {
+            "Key": "51ac169e-941c-491e-91ac-077f7b1343ac",
+            "Value": {
+                "id": "c7687b5f-54f5-405b-beb3-17527f31984a",
+                "resourcePath": "rooms\\Hallway\\Hallway.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "52e21bd1-fad9-4acf-bc48-f6894feb4eed",
             "Value": {
                 "id": "c1541aa0-c146-42a6-bdc4-1bbe18f29011",
@@ -455,14 +465,26 @@
             }
         },
         {
-            "Key": "6e5ee603-a4e2-40af-af2d-7e1caf7092b2",
+
+            "Key": "721e397c-b3d9-4218-98f9-cbe4f08acb16",
             "Value": {
-                "id": "9b69b90b-eb76-46b6-bb6d-54d1c3c00fb6",
-                "resourcePath": "sprites\\SpellTower.Instructions.Page1\\SpellTower.Instructions.Page1.yy",
+                "id": "6a02eb6b-04bd-4793-8aa2-1042e7818abe",
+                "resourcePath": "sprites\\sPlatform\\sPlatform.yy",
+
                 "resourceType": "GMSprite"
             }
         },
         {
+
+            "Key": "7304ecbc-7234-4d6b-af80-31bac7dd487c",
+            "Value": {
+                "id": "9a4cfdb0-496f-407b-b3b7-761bd7d58155",
+                "resourcePath": "objects\\oPlatform\\oPlatform.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+
             "Key": "7a67aee3-2179-48e7-b21c-ca8a36b17c87",
             "Value": {
                 "id": "85f969cd-fb3b-448d-ab1e-4ba29fa778bf",
@@ -548,6 +570,14 @@
                 "id": "61323391-455c-4a8d-a666-2ac14962e7b7",
                 "resourcePath": "sprites\/sFireProjectile\/sFireProjectile.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8bc07aad-2e24-4906-b9b6-b908588dde23",
+            "Value": {
+                "id": "2188302a-84c7-4206-a0a7-06f67e93d65d",
+                "resourcePath": "rooms\\Library\\Library.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -831,6 +861,16 @@
             }
         },
         {
+
+            "Key": "aeed9ca0-279d-401f-aa16-50a458979c28",
+            "Value": {
+                "id": "fdb7be08-9f55-41f9-bc42-b010a0c454c7",
+                "resourcePath": "sprites\/sEcoTower\/sEcoTower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+
             "Key": "b1a8328a-2203-49cc-b88c-422f7f23fef7",
             "Value": {
                 "id": "e1ec1e20-a803-4b85-b8d7-5196e949a4e3",
@@ -1025,8 +1065,10 @@
         {
             "Key": "d44b9f7d-178b-448d-a54e-45d7fa2cf286",
             "Value": {
-                "id": "fe61701f-798b-498b-bb63-59d20547cc00",
-                "resourcePath": "sprites\\heart.full\\heart.full.yy",
+
+                "id": "59bd0ce8-6687-42ac-9fcd-5ed566238694",
+                "resourcePath": "sprites\/ShadowWall\/ShadowWall.yy",
+
                 "resourceType": "GMSprite"
             }
         },
@@ -1151,6 +1193,16 @@
             }
         },
         {
+
+            "Key": "ec9a8776-b8b6-4d46-aa1c-f48befaeaea8",
+            "Value": {
+                "id": "5ee84a88-6742-48e5-8edf-cb7bba9d3a94",
+                "resourcePath": "sprites\/sLadder\/sLadder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+
             "Key": "ee5721e2-0c31-4fe9-be44-4918b63426ea",
             "Value": {
                 "id": "90b64de3-c1a4-4d27-baea-92fc181ab28a",
