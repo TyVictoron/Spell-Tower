@@ -1,4 +1,12 @@
 draw_self();
+
+if flash > 0 {
+	flash--;
+	shader_set(shWhite);
+	draw_self();
+	shader_reset();
+}
+
 if (mouseOver(x,y,sprite_width,sprite_height))
 	draw_circle(x,y,range,true);
 

@@ -115,25 +115,6 @@
             }
         },
         {
-            "Key": "092e90d5-2989-445a-a986-7c58eae30382",
-            "Value": {
-                "id": "e538316b-2dcd-4264-91e6-1d27dd5935f3",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/TowerFireDamaged\/TowerFireDamaged.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "09714936-7589-4461-97ba-ae6376ba9ca1",
             "Value": {
                 "id": "50375a32-3c48-4eda-a339-88d829a9a61a",
@@ -150,6 +131,25 @@
                 ],
                 "resourcePath": "objects\/oEnemyClimber2\/oEnemyClimber2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0b482219-cafb-44b7-a38e-b66e91797678",
+            "Value": {
+                "id": "20d94bc1-c306-4633-84c9-3179f1a15b4c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Wind_Tunnel_1\/Wind_Tunnel_1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -224,7 +224,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sounds\/Defeat_sound\/Defeat_sound.yy",
+                "resourcePath": "sounds\/GameOver\/GameOver.yy",
                 "resourceType": "GMSound"
             }
         },
@@ -245,6 +245,25 @@
                 ],
                 "resourcePath": "objects\/oEarthTowerC\/oEarthTowerC.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "20a0e9e6-4b5b-4e9c-9de5-89a9ca400bf3",
+            "Value": {
+                "id": "d0fd2584-ef8c-4a35-b051-684659477126",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sEnemyAttack\/sEnemyAttack.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -362,25 +381,6 @@
             }
         },
         {
-            "Key": "2ee40e6c-61f2-4a85-bc1d-ad272d184fad",
-            "Value": {
-                "id": "815dc394-c79e-4b4f-aad4-4399c4dd1698",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/sPlayerDamaged\/sPlayerDamaged.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3355a987-29ed-49d7-bee9-67c416b18c5a",
             "Value": {
                 "id": "b90a11b7-051d-4828-bb66-228c2169fbe8",
@@ -416,44 +416,6 @@
                 ],
                 "resourcePath": "sounds\/attacking sound fire\/attacking sound fire.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "367e573c-a7ce-4195-9548-cbe28532203f",
-            "Value": {
-                "id": "4f37e99b-6907-473f-af3b-d2699d6d9411",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/TowerEarthDamaged\/TowerEarthDamaged.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "36a942e2-fe57-4e0e-b1c7-d6df38376e39",
-            "Value": {
-                "id": "df0f8992-a914-465e-80c5-cb780fde81f1",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/MonsterBeastDamaged\/MonsterBeastDamaged.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -511,25 +473,6 @@
                 ],
                 "resourcePath": "views\/3e1a6eb0-6405-476e-8b05-5ac358a66b26.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "3fd12f4a-d977-462d-beb8-f14b94ac9d92",
-            "Value": {
-                "id": "115afda5-8185-418f-8a95-2afcccd057ec",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/TowerWaterDamaged\/TowerWaterDamaged.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -628,25 +571,6 @@
             }
         },
         {
-            "Key": "48eb9e34-9b38-4649-899e-1aed3a7f28ea",
-            "Value": {
-                "id": "2911893a-2fa9-44d6-b011-75ee96a69327",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/MonsterBatDamaged\/MonsterBatDamaged.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "4a773134-2ad0-4f92-911d-7875724621bf",
             "Value": {
                 "id": "035666f6-6825-4bca-8753-1ab51e7a8a48",
@@ -662,25 +586,6 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/Essence_Arcane\/Essence_Arcane.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "4ac145d2-0d85-4c33-beb7-2527dcf930a2",
-            "Value": {
-                "id": "c5904e2d-1d62-4f16-88a4-b55279033a71",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/MonsterVultureDamaged\/MonsterVultureDamaged.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1103,25 +1008,6 @@
             }
         },
         {
-            "Key": "7328b1aa-a694-4087-82ed-f74ae12854cd",
-            "Value": {
-                "id": "5580d603-08d2-4d89-a02b-849c505c7615",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/airtowerDamaged\/airtowerDamaged.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "7a67aee3-2179-48e7-b21c-ca8a36b17c87",
             "Value": {
                 "id": "85f969cd-fb3b-448d-ab1e-4ba29fa778bf",
@@ -1271,6 +1157,25 @@
                 ],
                 "resourcePath": "sprites\/sPlayerWalk\/sPlayerWalk.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "89956e3f-b3c3-45ce-827b-43c3ad4f6cf1",
+            "Value": {
+                "id": "c4d03585-1c24-4f7c-b50a-04ba76c5bc11",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oEnemyAttack\/oEnemyAttack.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1499,25 +1404,6 @@
                 ],
                 "resourcePath": "views\/96f1475e-cc11-4c49-a5a6-4eacbdd3a74c.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "96fc6cd0-73f6-4281-906b-a68b8e11d381",
-            "Value": {
-                "id": "dac0afc6-0472-4e01-9d9f-a8daf2ae4555",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/Level.Kitchen\/Level.Kitchen.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1977,25 +1863,6 @@
             }
         },
         {
-            "Key": "aeed9ca0-279d-401f-aa16-50a458979c28",
-            "Value": {
-                "id": "fdb7be08-9f55-41f9-bc42-b010a0c454c7",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/sEcoTower\/sEcoTower.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "b1a8328a-2203-49cc-b88c-422f7f23fef7",
             "Value": {
                 "id": "e1ec1e20-a803-4b85-b8d7-5196e949a4e3",
@@ -2031,6 +1898,25 @@
                 ],
                 "resourcePath": "views\/b2801db8-41ce-42f1-bc35-a62566224281.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b57710b0-b736-429f-afc8-08ace445c472",
+            "Value": {
+                "id": "915eee26-3fba-4684-b9ac-79ace025efeb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/ShadowBridge\/ShadowBridge.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2145,6 +2031,25 @@
                 ],
                 "resourcePath": "objects\/oWaterTower\/oWaterTower.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c30667f0-7f56-4b5e-9d29-c049c0fca921",
+            "Value": {
+                "id": "b92a2a67-10c5-40d8-9eb1-c8766d6353cb",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/SpellTower_StartScreen\/SpellTower_StartScreen.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -2338,6 +2243,25 @@
             }
         },
         {
+            "Key": "cc2f6211-8f6f-49b9-a981-927874171de9",
+            "Value": {
+                "id": "07fc1930-07d8-4aaf-9a90-6e5b3c4614be",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "shaders\/shWhite\/shWhite.yy",
+                "resourceType": "GMShader"
+            }
+        },
+        {
             "Key": "cc4dea03-85f8-49ca-a27d-db5c610fc9aa",
             "Value": {
                 "id": "2adb4fd8-6a8b-4d74-85b5-8bcf61880cd4",
@@ -2392,44 +2316,6 @@
                 ],
                 "resourcePath": "objects\/oEnemySpawn\/oEnemySpawn.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "cf8abfc6-10d7-47b0-a848-618c848508e7",
-            "Value": {
-                "id": "59bd0ce8-6687-42ac-9fcd-5ed566238694",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/ShadowWall\/ShadowWall.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "cfb31346-68c1-4393-8fc6-f8f20b91a787",
-            "Value": {
-                "id": "c8dd6191-d7ea-4c6e-a0bf-cb1ca58e31d7",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/ArcaneTowerDamaged\/ArcaneTowerDamaged.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -2544,25 +2430,6 @@
                 ],
                 "resourcePath": "sounds\/enemy_spawn_sound\/enemy_spawn_sound.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "ddbab296-f933-46af-a0d9-81b8dcefbdb4",
-            "Value": {
-                "id": "23998353-8490-4137-a6c2-a0c694bcd960",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/MonsterHellhoundDamaged\/MonsterHellhoundDamaged.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -2734,25 +2601,6 @@
                 ],
                 "resourcePath": "fonts\/IngameFont\/IngameFont.yy",
                 "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "ec9a8776-b8b6-4d46-aa1c-f48befaeaea8",
-            "Value": {
-                "id": "5ee84a88-6742-48e5-8edf-cb7bba9d3a94",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/sLadder\/sLadder.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -3000,25 +2848,6 @@
                 ],
                 "resourcePath": "sounds\/Jump landing sound\/Jump landing sound.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "fbbbb3bf-f64f-4d3a-8855-593e8dd8839b",
-            "Value": {
-                "id": "a6e36379-8887-4a50-824c-f13aeb87a232",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/Level.Library\/Level.Library.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
