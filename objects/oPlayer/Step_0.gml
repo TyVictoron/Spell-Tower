@@ -80,36 +80,36 @@ if (keyboard_check(ord("E"))) {
 	if (towerid) {
 		if (towerid.object_index == oFireTower) {
 			if (towerid.lvl < 2) {
-				if (global.ecoEssence >= 3) {
+				if (global.fireEssence >= 2) {
 					towerid.lvl += 1;
-					global.ecoEssence -= 3
+					global.fireEssence -= 2
 				}
 			}
 		}
 		
 		if (towerid.object_index == oWaterTower) {
 			if (towerid.lvl < 2) {
-				if (global.ecoEssence >= 3) {
+				if (global.waterEssence >= 2) {
 					towerid.lvl += 1;
-					global.ecoEssence -= 3
+					global.waterEssence -= 2
 				}
 			}
 		}
 		
 		if (towerid.object_index == oEarthTower) {
 			if (towerid.lvl < 2) {
-				if (global.ecoEssence >= 3) {
+				if (global.earthEssence >= 2) {
 					towerid.lvl += 1;
-					global.ecoEssence -= 3
+					global.earthEssence -= 2
 				}
 			}
 		}
 		
 		if (towerid.object_index == oAirTower) {
 			if (towerid.lvl < 2) {
-				if (global.ecoEssence >= 3) {
+				if (global.airEssence >= 2) {
 					towerid.lvl += 1;
-					global.ecoEssence -= 3
+					global.airEssence -= 2
 				}
 			}
 		}
