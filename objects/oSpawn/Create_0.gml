@@ -25,7 +25,13 @@ global.spd = 1; // enemy speed
 global.level = 1; // wave number
 global.essenceSpawns = [] //empty array for essence spawn locations 
 global.essence = [oFireEssence,oWaterEssence,oEarthEssence,oAirEssence,oEcoEssence] // essences
-global.enemySpawns = [] // finds spawner loactions
+global.enemySpawns = [] // spawner loactions
+global.tunnelSpawns = [] // tunnel locations
+
+// finds the spawnable locations for essesnces
+for (var i = 0; i < instance_number(oEssenceSpawn); i += 1){
+	global.tunnelSpawns[i] = instance_find(oWindTunnelSpawn,i);
+}
 
 // finds the spawnable locations for essesnces
 for (var i = 0; i < instance_number(oEssenceSpawn); i += 1){
@@ -37,6 +43,6 @@ for (var i = 0; i < instance_number(oEnemySpawn); i += 1){
 	global.enemySpawns[i] = instance_find(oEnemySpawn,i);
 }
 
-audio_play_sound(BGM_1,1,-1);
+audio_play_sound(BGM_1,1,-1); // does not loop
 
 randomize() // makes the random actualy random

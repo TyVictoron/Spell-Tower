@@ -19,7 +19,7 @@ if (place_meeting(x,y+vsp,oWall)) {
 	}
 	vsp = 0;
 	if !position_meeting(x+(sprite_width/2)*dir,y+(sprite_height/2)+8, oWall) {
-		instance_create_depth(x+(sprite_width)*dir,y+(sprite_height/2)-9,-1,oShadowWall)
+		instance_create_depth(x+(sprite_width-5)*dir,y+(sprite_height/2)-35,-1,oShadowWall)
 	}
 }
 
