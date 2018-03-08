@@ -8,11 +8,12 @@ if (place_meeting(x+hsp,y,oWall)) {
 		x = x + sign(hsp);
 	}
 	hsp = 0;	
+	
 }
 
 x = x + hsp;
 
-// virtical collision ------------------------------------------------
+/* virtical collision ------------------------------------------------
 if (place_meeting(x,y+vsp,oWall)) {
 	while (!place_meeting(x,y+sign(vsp),oWall)) {
 		y = y + sign(vsp);

@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "oLadder",
     "eventList": [
-        
+        {
+            "id": "c8360b5b-f436-4921-86cf-593092fbc0a0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "0e0f2016-d764-459a-a038-ff08dc2e5c04"
+        },
+        {
+            "id": "2f8698c5-2720-4446-89db-32abfd692d35",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "0e0f2016-d764-459a-a038-ff08dc2e5c04"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
