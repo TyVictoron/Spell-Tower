@@ -1,3 +1,5 @@
+
+
 // Enemy/wave spawner
 spawnAmount = 5; // amount of emenys to spawn
 spawnCount = 0;
@@ -5,9 +7,7 @@ spawnRate = 1 * room_speed;
 alarm[0] = 1;
 alarm[1] = room_speed * 5;
 alarm[2] = room_speed * 10;
-//alarm[3] = room_speed * 30;
-won = false;
-lost = false;
+alarm[3] = room_speed * 30;
 
 // All global Variables here
 

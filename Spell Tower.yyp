@@ -210,6 +210,25 @@
             }
         },
         {
+            "Key": "14efd88a-013a-41ee-923f-2c5acfc9344d",
+            "Value": {
+                "id": "35482ae7-1cf4-4626-b91a-9df801c29185",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oWinLossButtonCheck\/oWinLossButtonCheck.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1a04302f-de97-483b-9a0d-37f96deb2a34",
             "Value": {
                 "id": "8969dc01-39ab-4153-9c67-223e7c6b78a6",
