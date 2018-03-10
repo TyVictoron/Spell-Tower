@@ -29,6 +29,8 @@ global.essence = [oFireEssence,oWaterEssence,oEarthEssence,oAirEssence,oEcoEssen
 global.enemySpawns = []; // spawner loactions
 global.tunnelSpawns = []; // tunnel locations
 
+global.roomspeed = room_speed;
+
 playerHearts = [];
 
 // finds the spawnable locations for essesnces

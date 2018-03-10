@@ -1,34 +1,34 @@
 {
-    "id": "14efd88a-013a-41ee-923f-2c5acfc9344d",
+    "id": "361c0839-40cc-4a06-9be1-3ee56c2283c0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oWinLossButtonCheck",
+    "name": "oPaused",
     "eventList": [
         {
-            "id": "5bc02c92-3d21-4653-a471-c30e497d1aa6",
+            "id": "b56b3ce3-6784-4604-bf6a-d76d0b883d56",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
-            "eventtype": 9,
-            "m_owner": "14efd88a-013a-41ee-923f-2c5acfc9344d"
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "361c0839-40cc-4a06-9be1-3ee56c2283c0"
         },
         {
-            "id": "ea3405eb-94a5-46f2-a728-22ad89b336ab",
+            "id": "e060b8d8-cd89-47b6-b0ce-017a003d10e5",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 27,
+            "enumb": 69,
             "eventtype": 9,
-            "m_owner": "14efd88a-013a-41ee-923f-2c5acfc9344d"
+            "m_owner": "361c0839-40cc-4a06-9be1-3ee56c2283c0"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": false,
+    "persistent": true,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,

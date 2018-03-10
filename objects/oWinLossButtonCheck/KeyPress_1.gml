@@ -1,2 +1,3 @@
 /// go to next room in order
-room_goto(room_first);
+room_speed = global.roomspeed;
+game_restart();

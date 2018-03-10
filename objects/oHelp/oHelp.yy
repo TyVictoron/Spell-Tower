@@ -1,28 +1,28 @@
 {
-    "id": "14efd88a-013a-41ee-923f-2c5acfc9344d",
+    "id": "3c630b8a-a644-4053-8678-4f84128f8d5a",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oWinLossButtonCheck",
+    "name": "oHelp",
     "eventList": [
         {
-            "id": "5bc02c92-3d21-4653-a471-c30e497d1aa6",
+            "id": "d24341ad-266d-4ad0-a1be-c595b4d7bd86",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "3c630b8a-a644-4053-8678-4f84128f8d5a"
+        },
+        {
+            "id": "d9a79806-bc9c-4826-bf5c-d8190bcb2af6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 1,
-            "eventtype": 9,
-            "m_owner": "14efd88a-013a-41ee-923f-2c5acfc9344d"
-        },
-        {
-            "id": "ea3405eb-94a5-46f2-a728-22ad89b336ab",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 27,
-            "eventtype": 9,
-            "m_owner": "14efd88a-013a-41ee-923f-2c5acfc9344d"
+            "eventtype": 5,
+            "m_owner": "3c630b8a-a644-4053-8678-4f84128f8d5a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "814258c0-9d8f-4c9e-aeaa-d99dedd41371",
     "visible": true
 }

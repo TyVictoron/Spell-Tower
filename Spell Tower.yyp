@@ -533,6 +533,25 @@
             }
         },
         {
+            "Key": "361c0839-40cc-4a06-9be1-3ee56c2283c0",
+            "Value": {
+                "id": "2315a401-041a-4d32-aef0-1089d6562347",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oPaused\/oPaused.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "365f1fe1-b872-4be3-86f1-02920c770ccf",
             "Value": {
                 "id": "eb9f85e4-fd9e-4406-ac8d-0b6d4e813a3f",
@@ -587,6 +606,25 @@
                 ],
                 "resourcePath": "views\/3a30591d-2335-4f09-ad7d-df428733eca0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3c630b8a-a644-4053-8678-4f84128f8d5a",
+            "Value": {
+                "id": "3a2bd779-7fb5-4a35-b5e0-7140ae7e7420",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oHelp\/oHelp.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1122,6 +1160,25 @@
             }
         },
         {
+            "Key": "69f65708-27b5-4f4c-8a31-f00968a5f698",
+            "Value": {
+                "id": "0f595dab-e556-4381-8f52-ae8f3fa9687b",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Baseheart_full\/Baseheart_full.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6a80619b-90c5-4ee5-91e7-c16638ec26e5",
             "Value": {
                 "id": "0a438573-9461-4a0b-9511-e2d45c59c90d",
@@ -1236,6 +1293,25 @@
             }
         },
         {
+            "Key": "7836e4f6-7325-4a6c-b5d1-a439e795183a",
+            "Value": {
+                "id": "6074bb6b-aa6c-4cd7-abea-87fd1d9dab0e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/SpellTower_Instructions_Page1\/SpellTower_Instructions_Page1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7a67aee3-2179-48e7-b21c-ca8a36b17c87",
             "Value": {
                 "id": "85f969cd-fb3b-448d-ab1e-4ba29fa778bf",
@@ -1327,6 +1403,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/sAirTower\/sAirTower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "814258c0-9d8f-4c9e-aeaa-d99dedd41371",
+            "Value": {
+                "id": "b68aefa9-0abb-4198-81ed-4d420372c9bc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/SpellTower_Instructions_Page2\/SpellTower_Instructions_Page2.yy",
                 "resourceType": "GMSprite"
             }
         },
