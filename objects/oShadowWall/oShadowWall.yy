@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "oShadowWall",
     "eventList": [
-        
+        {
+            "id": "74a45566-76e7-482f-a05c-a0d0e2246432",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "c5b2bd0e-c050-42c8-b4de-70b9a7553119",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "635e5a1e-4732-4448-b57b-46301837f466"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

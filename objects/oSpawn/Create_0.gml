@@ -32,6 +32,7 @@ global.tunnelSpawns = []; // tunnel locations
 global.roomspeed = room_speed;
 
 playerHearts = [];
+baseHearts = [];
 
 // finds the spawnable locations for essesnces
 for (var i = 0; i < instance_number(oWindTunnelSpawn); i += 1){

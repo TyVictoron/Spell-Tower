@@ -1,11 +1,5 @@
-// finds the spawnable locations for enemys
-for (var i = 0; i < array_length_1d(playerHearts); i += 1){
-	instance_destroy(playerHearts[i]);
-}
+// Base and player hearts
 
-for (var i = 0; i < global.playerHealth; i += 1){
-	playerHearts[i] = instance_create_depth(48*i,48,5,oPlayerHeart);
-}
 
 if (global.level == 10 and instance_number(oEnemy) <= 0) {
 	//audio_play_sound(Victory_sound,1,0); does not play correctly
