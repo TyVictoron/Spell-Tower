@@ -324,6 +324,25 @@
             }
         },
         {
+            "Key": "1d54dd61-73c0-4709-841c-e6602020d165",
+            "Value": {
+                "id": "1d427ced-ad92-4e4e-be42-efa4f497501d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/Instructions\/Instructions.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "1e5c08bb-e94f-4875-a5c1-eb705f622f18",
             "Value": {
                 "id": "c39d835b-d0e8-4251-9860-bd97dcc8c6b0",
@@ -568,25 +587,6 @@
                 ],
                 "resourcePath": "sounds\/attacking sound fire\/attacking sound fire.yy",
                 "resourceType": "GMSound"
-            }
-        },
-        {
-            "Key": "3715f8e6-0758-4dbb-b83a-fc211b14170d",
-            "Value": {
-                "id": "a41cb4cc-64ad-4b0a-8054-1d601c70120a",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/oBuildingsUI\/oBuildingsUI.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -1882,6 +1882,25 @@
             }
         },
         {
+            "Key": "9be41a1c-7fa0-435c-af23-3e0b4f5775f5",
+            "Value": {
+                "id": "b2d116d2-44bc-410a-bad2-0d87c67d5289",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oHelp1\/oHelp1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9d2ca250-f5bf-4600-a065-f072965af59f",
             "Value": {
                 "id": "891522cd-c740-4011-9570-efe8ba5bf8ef",
@@ -1920,6 +1939,25 @@
             }
         },
         {
+            "Key": "9f65ea61-8049-41a5-b942-b6478511a12b",
+            "Value": {
+                "id": "4ec3d3f2-5709-4ff0-8938-fcc6531d6af0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "rooms\/Instructions1\/Instructions1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "9fc45496-fc74-4ac8-b920-a9fc8e1c1157",
             "Value": {
                 "id": "e6fef465-79f2-4f12-9815-cd621fcfe342",
@@ -1939,25 +1977,6 @@
             }
         },
         {
-            "Key": "a04c1b6b-b4ac-4592-804f-5688f8e4b1a9",
-            "Value": {
-                "id": "f58fd84c-48b7-4162-8d53-c7f4b1827670",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "objects\/oEnemySpawnDoor\/oEnemySpawnDoor.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a1960dc3-c7a5-417a-82b1-b12b9d5f452d",
             "Value": {
                 "id": "cca33907-85ff-4850-80ba-1d4cd7cae41d",
@@ -1974,25 +1993,6 @@
                 ],
                 "resourcePath": "views\/a1960dc3-c7a5-417a-82b1-b12b9d5f452d.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a315ca02-e7e5-47b4-b650-2f1916d929f4",
-            "Value": {
-                "id": "6aa62c05-1f79-43aa-9ed7-ced10baea03f",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "sprites\/sEnemyDoor\/sEnemyDoor.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -2561,7 +2561,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sEarthTower\/sEarthTower.yy",
+                "resourcePath": "sprites\/sTheWall\/sTheWall.yy",
                 "resourceType": "GMSprite"
             }
         },

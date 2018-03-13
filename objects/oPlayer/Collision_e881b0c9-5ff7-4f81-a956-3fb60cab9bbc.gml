@@ -8,3 +8,4 @@ if (global.playerHealth <= 1) {
 	exit;
 }
 flash = 3;
+global.pHealth = global.playerHealth;

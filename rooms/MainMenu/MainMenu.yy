@@ -7,8 +7,7 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "03aaead1-9178-4590-b803-975377c78e4e",
-        "4f3b89df-2882-4b12-abe1-e263fb2f88cd"
+        "5dc32c7a-e43e-41e3-96a8-b2674c1dd512"
     ],
     "IsDnD": false,
     "layers": [
@@ -26,8 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_2637CD58","id": "03aaead1-9178-4590-b803-975377c78e4e","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_2637CD58","objId": "459947b4-0b07-425d-837e-d9d1e881105e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 736,"y": 352},
-{"name": "inst_CE86A7D","id": "4f3b89df-2882-4b12-abe1-e263fb2f88cd","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_CE86A7D","objId": "361c0839-40cc-4a06-9be1-3ee56c2283c0","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 992,"y": 704}
+{"name": "inst_148100BE","id": "5dc32c7a-e43e-41e3-96a8-b2674c1dd512","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_148100BE","objId": "459947b4-0b07-425d-837e-d9d1e881105e","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 975,"y": 545}
             ],
             "layers": [
 
