@@ -2,7 +2,7 @@
     "id": "f7d67218-c976-4d6f-b15f-f56a4a992d32",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Tower.Earth",
+    "name": "TowerEarth",
     "For3D": false,
     "HTile": false,
     "VTile": false,
@@ -13,6 +13,7 @@
     "bboxmode": 0,
     "colkind": 1,
     "coltolerance": 0,
+    "edgeFiltering": false,
     "frames": [
         {
             "id": "db0398d6-0a0c-4707-b694-5cb0945c3fbb",
@@ -54,6 +55,7 @@
         }
     ],
     "origin": 4,
+    "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
     "premultiplyAlpha": false,

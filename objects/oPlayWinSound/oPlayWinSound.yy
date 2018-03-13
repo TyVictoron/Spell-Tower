@@ -1,23 +1,23 @@
 {
-    "id": "635e5a1e-4732-4448-b57b-46301837f466",
+    "id": "b9db9731-dfeb-4ba0-a195-07ac45270a4f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oShadowWall",
+    "name": "oPlayWinSound",
     "eventList": [
         {
-            "id": "74a45566-76e7-482f-a05c-a0d0e2246432",
+            "id": "bec0ccc2-79d8-4bd5-bbcc-260d8a41a0ad",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "c5b2bd0e-c050-42c8-b4de-70b9a7553119",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "635e5a1e-4732-4448-b57b-46301837f466"
+            "eventtype": 0,
+            "m_owner": "b9db9731-dfeb-4ba0-a195-07ac45270a4f"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "43e93e2f-e715-4ef9-be1c-4f67e3021564",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "b57710b0-b736-429f-afc8-08ace445c472",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

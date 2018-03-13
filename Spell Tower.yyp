@@ -134,6 +134,25 @@
             }
         },
         {
+            "Key": "09680079-c3e8-4548-bbd3-53b599b7f873",
+            "Value": {
+                "id": "a76d7221-3da1-4ee4-b00b-cdeec43813d5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/UI_sample_1\/UI_sample_1.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "09714936-7589-4461-97ba-ae6376ba9ca1",
             "Value": {
                 "id": "50375a32-3c48-4eda-a339-88d829a9a61a",
@@ -207,6 +226,25 @@
                 ],
                 "resourcePath": "objects\/oAirTowerC\/oAirTowerC.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1364778b-ecff-40fb-9fb8-eb54d772da76",
+            "Value": {
+                "id": "e441ec5c-bd02-4022-8e13-0d1a76fcb5f8",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/block_destroyed_sound\/block_destroyed_sound.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -509,7 +547,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/Tower.Fire\/Tower.Fire.yy",
+                "resourcePath": "sprites\/TowerFire\/TowerFire.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1079,7 +1117,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/Tower.Water\/Tower.Water.yy",
+                "resourcePath": "sprites\/TowerWater\/TowerWater.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1573,7 +1611,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/air.tower\/air.tower.yy",
+                "resourcePath": "sprites\/airtower\/airtower.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2335,6 +2373,25 @@
                 ],
                 "resourcePath": "views\/b885fec5-3c6a-462a-ab03-315e25460342.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b9db9731-dfeb-4ba0-a195-07ac45270a4f",
+            "Value": {
+                "id": "aec7624c-6c61-4178-9611-3780b39814dc",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oPlayWinSound\/oPlayWinSound.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -3226,7 +3283,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/Tower.Earth\/Tower.Earth.yy",
+                "resourcePath": "sprites\/TowerEarth\/TowerEarth.yy",
                 "resourceType": "GMSprite"
             }
         },

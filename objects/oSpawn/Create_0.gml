@@ -51,6 +51,6 @@ for (var i = 0; i < instance_number(oEnemySpawn); i += 1){
 
 
 
-audio_play_sound(BGM_1,1,-1); // does not loop
+audio_play_sound(BGM_1,1,true);
 
 randomize() // makes the random actualy random

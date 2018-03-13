@@ -11,5 +11,5 @@ range = 100;
 shooting = false;
 objectToShoot = noone;
 
-fire_rate = room_speed * 2; // enemy attack speed in seconds
+fire_rate = room_speed * 3; // enemy attack speed in seconds
 
