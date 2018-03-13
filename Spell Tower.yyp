@@ -666,6 +666,25 @@
             }
         },
         {
+            "Key": "3c794d7c-68d5-432e-b79d-c4c23e4ffa88",
+            "Value": {
+                "id": "302121de-751d-47d7-98f5-4bbf689e0c5c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oCantTouchThis\/oCantTouchThis.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3e1a6eb0-6405-476e-8b05-5ac358a66b26",
             "Value": {
                 "id": "e83d1de4-95db-4d7d-bf71-caf007a125e6",
@@ -1517,6 +1536,25 @@
                     "default"
                 ],
                 "resourcePath": "sprites\/sPlayerWalk\/sPlayerWalk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "879b0f3f-c2c9-4c02-82c2-153125d43f3c",
+            "Value": {
+                "id": "11f2efb6-197b-4a78-9a5f-8205321dad1f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/airTowerAbility\/airTowerAbility.yy",
                 "resourceType": "GMSprite"
             }
         },
